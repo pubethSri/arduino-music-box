@@ -22,7 +22,7 @@
 | 66070030 (Sec1) | นายจิราธิป กาปัญญา (ขุน)            | Website                       | <img alt="Kuhn" height="150" src="" width="150"/> |
 | 66070129 (Sec2) | นายพรรษกร เฮียะเครือ (แพนนี่)         | A1 Poster                     | <img alt="Panny" height="150" src="" width="150"/>     |
 | 66070147 (Sec2) | นางสาวภัทรธิดา ขันธุลา (ไอติม Mixue)  | A1 Poster                     | <img alt="Mixue" height="150" src="" width="150"/>    |
-| 66070158 (Sec2) | นายภูเบศ ศรีวัฒนา (ครูส)              | Website                      | <img alt="Acoustic" height="150" src="" width="150"/>     |
+| 66070158 (Sec2) | นายภูเบศ ศรีวัฒนา (ครูส)              | Website                      | <img alt="Acoustic" height="150" src="assets/imgs/cruz.png" width="150"/>     |
 
 > [!IMPORTANT]
 > :speaking_head: ทุกคนมีส่วนร่วมในการจัดทำตัวชิ้นงาน และคลิป Video นำเสนอ:radioactive::wheelchair:
@@ -30,14 +30,8 @@
 ## นำเสนอ
 - รองศาสตราจารย์ ดร. กิติ์สุชาต พสุภา
 - รองศาสตราจารย์ ดร. ปานวิทย์ ธุวะนุติ
-<div style="display: inline-flex; justify-content: center">
-  <div>
+<div style="display: flex">
     <img alt="Kitsuchart-San" src="assets/imgs/handsome1.jpg" width="150" height="150">
-    <p>รองศาสตราจารย์ ดร. กิติ์สุชาต พสุภา</p>
-  </div>
-  <div>
     <img alt="Panwit-San" src="assets/imgs/handsome2.jpg" width="150" height="150">
-    <p>รองศาสตราจารย์ ดร. ปานวิทย์ ธุวะนุติ</p>
-  </div>
 </div>
 
