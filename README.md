@@ -18,6 +18,9 @@
 ## Video Presentation
 [https://youtu.be/rQjhd_Dm3DY](https://youtu.be/rQjhd_Dm3DY)
 
+## Website
+[https://pubethsri.github.io/arduino-music-box/](https://pubethsri.github.io/arduino-music-box/)
+
 ## Members
 | ID       | Name                                  | Responsibilities*                    |
 |----------|------------------------------------------|--------------------------------|
