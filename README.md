@@ -16,18 +16,18 @@
 - หมุน Potentiometer เพื่อปรับความดังของเสียงดนตรี
 
 ## Video Presentation
-[https://youtu.be/rQjhd_Dm3DY](https://youtu.be/rQjhd_Dm3DY)
+[https://youtu.be/hjnly7TVPGE](https://youtu.be/hjnly7TVPGE)
 
 ## Website
 [https://pubethsri.github.io/arduino-music-box/](https://pubethsri.github.io/arduino-music-box/)
 
 ## Members
-| ID       | Name                                  | Responsibilities*                    |
-|----------|------------------------------------------|--------------------------------|
-| 66070030 (Sec1) | นายจิราธิป กาปัญญา (ขุน)            | Website                       |
-| 66070129 (Sec2) | นายพรรษกร เฮียะเครือ (แพนนี่)         | A1 Poster                     |
-| 66070147 (Sec2) | นางสาวภัทรธิดา ขันธุลา (ไอติม Mixue)  | A1 Poster                     |
-| 66070158 (Sec2) | นายภูเบศ ศรีวัฒนา (ครูส)              | Video                      |
+| ID       | Name                                  | Responsibilities*                    |  Img                    |
+|----------|------------------------------------------|--------------------------------| --------------------------------|
+| 66070030 (Sec1) | นายจิราธิป กาปัญญา (ขุน)            | Website                       | <img alt="Kuhn" height="150" src="docs/images/kuen.png" width="150"/>|
+| 66070129 (Sec2) | นายพรรษกร เฮียะเครือ (แพนนี่)         | A1 Poster                     | <img alt="Panny" height="150" src="docs/images/panny.png" width="150"/>|
+| 66070147 (Sec2) | นางสาวภัทรธิดา ขันธุลา (ไอติม)  | A1 Poster                         | <img alt="Itim" height="150" src="docs/images/mixue.png" width="150"/>|
+| 66070158 (Sec2) | นายภูเบศ ศรีวัฒนา (ครูส)              | Video                      | <img alt="Cruz" height="150" src="docs/images/cruz.png" width="150"/>|
 
 > [!IMPORTANT]
 > :speaking_head: ทุกคนมีส่วนร่วมในการจัดทำตัวชิ้นงาน และคลิป Video นำเสนอ:radioactive::wheelchair:
