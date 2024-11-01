@@ -16,7 +16,7 @@
 - หมุน Potentiometer เพื่อปรับความดังของเสียงดนตรี
 
 ## Video Presentation
-[https://youtu.be/rQjhd_Dm3DY](https://youtu.be/rQjhd_Dm3DY)
+[https://youtu.be/hjnly7TVPGE](https://youtu.be/hjnly7TVPGE)
 
 ## Website
 [https://pubethsri.github.io/arduino-music-box/](https://pubethsri.github.io/arduino-music-box/)
